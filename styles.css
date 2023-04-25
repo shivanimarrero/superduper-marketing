@@ -1,6 +1,9 @@
 body {
     margin: 0;
     background: pink;
-    text-align: center;
 
 }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
